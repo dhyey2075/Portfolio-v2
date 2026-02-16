@@ -51,7 +51,7 @@ export async function POST(request: NextRequest) {
     const emailText = `
 > New Transmission
 
-To: me@harshgajjar.dev
+To: hello@dhyeyparekh.in
 From: ${email}
 Subject: ${name}
 

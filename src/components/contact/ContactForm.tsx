@@ -82,7 +82,7 @@ export const ContactForm = () => {
           <div className="flex items-center px-4 py-3 border-b border-border">
             <span className="text-muted-foreground w-20">To:</span>
             <div className="text-foreground">
-              me@harshgajjar.dev
+              hello@dhyeyparekh.in
             </div>
           </div>
 

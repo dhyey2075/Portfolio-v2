@@ -10,20 +10,20 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Harsh Gajjar - SWE | Backend & System Architecture",
-  description: "Harsh Gajjar is a software engineer specializing in backend architecture, system design, and infrastructure. He builds fast, scalable, and reliable systems.",
-  keywords: "Harsh Gajjar, backend engineer, system design, infrastructure engineer, software engineer portfolio, scalable systems",
+  title: "Dhyey Parekh - Student & Developer",
+  description: "Dhyey Parekh is a computer engineering student and developer specializing in backend development, system design, and infrastructure. He builds fast, scalable, and reliable systems.",
+  keywords: "Dhyey Parekh, computer engineering student, developer, backend development, system design, infrastructure, scalable systems",
   openGraph: {
-    title: "Harsh Gajjar - SWE | Backend & System Architecture",
-    description: "Harsh Gajjar is a software engineer specializing in backend architecture, system design, and infrastructure. He builds fast, scalable, and reliable systems.",
-    url: "https://harshgajjar.dev",
-    siteName: "Harsh Gajjar",
+    title: "Dhyey Parekh - Student & Developer",
+    description: "Dhyey Parekh is a computer engineering student and developer specializing in backend development, system design, and infrastructure. He builds fast, scalable, and reliable systems.",
+    url: "https://dhyeyparekh.in",
+    siteName: "Dhyey Parekh",
     images: [
       {
         url: "https://harshgajjar.dev/assets/images/og/og.webp",
         width: 1200,
         height: 630,
-        alt: "Harsh Gajjar - Software Engineer",
+        alt: "Dhyey Parekh - Student & Developer",
       },
     ],
     type: "website",

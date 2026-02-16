@@ -3,20 +3,20 @@ import { Github, Linkedin, Twitter } from "lucide-react";
 export const SOCIALS = [
   {
     name: "X (Twitter)",
-    url: "https://x.com/harshgajjar_28",
+    url: "https://x.com/dhyey2075",
     icon: Twitter,
-    handle: "@harshgajjar_28",
+    handle: "@dhyey2075",
   },
   {
     name: "GitHub",
-    url: "https://github.com/harshhh28",
+    url: "https://github.com/dhyey2075",
     icon: Github,
-    handle: "@harshhh28",
+    handle: "@dhyey2075",
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/harsh-gajjar-936536209/",
+    url: "https://www.linkedin.com/in/dhyey2075/",
     icon: Linkedin,
-    handle: "Harsh Gajjar",
+    handle: "Dhyey Parekh",
   },
 ];

@@ -24,7 +24,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-12 px-4">
           {/* Brand / Root */}
           <Link href="/" className="text-sm font-mono font-bold text-foreground hover:text-primary transition-colors">
-            ~/harsh.gajjar
+            ~/dhyey.parekh
           </Link>
 
           {/* Desktop "Dock" */}
