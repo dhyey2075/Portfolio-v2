@@ -43,3 +43,5 @@ next-env.d.ts
 
 # vscode
 .vscode/settings.json
+src/data/dhyey_project.ts
+src/data/repo.ts

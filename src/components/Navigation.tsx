@@ -14,7 +14,6 @@ const Navigation = () => {
   const links = [
     { href: "/", label: "/system" },
     { href: "/workbench", label: "/workbench" },
-    { href: "/logs", label: "/logs" },
     { href: "/contact", label: "/contact" },
   ];
 
