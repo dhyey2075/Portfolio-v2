@@ -1,4 +1,4 @@
-<h1 align="center">Harsh Gajjar's Portfolio</h1>
+<h1 align="center">Dhyey Parekh's Portfolio</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/harshhh28/portfolio?color=56BEB8">
@@ -31,7 +31,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/harshhh28" target="_blank">Author</a>
+  <a href="https://github.com/dhyey2075" target="_blank">Author</a>
 </p>
 
 <br>
@@ -98,7 +98,7 @@ To get these values:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/harshhh28/portfolio
+$ git clone https://github.com/dhyey2075/Portfolio-v2
 
 # Access
 $ cd portfolio
@@ -116,6 +116,6 @@ $ npm run dev
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by <a href="https://github.com/harshhh28" target="_blank">Harsh Gajjar</a>
+Made with :heart: by <a href="https://github.com/dhyey2075" target="_blank">Dhyey Parekh</a>
 
 <a href="#top">Back to top</a>
